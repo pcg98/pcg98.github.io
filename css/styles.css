@@ -11482,8 +11482,9 @@ html {
   opacity: 1;
 }
 #myCarousel{
-    height: 500px;
+    max-height: 500px;
 }
+
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
   font-size: 1.5rem;
 }
