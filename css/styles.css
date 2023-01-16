@@ -11482,7 +11482,7 @@ html {
   opacity: 1;
 }
 #myCarousel{
-    max-height: 500px;
+    height: 600px
 }
 
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
